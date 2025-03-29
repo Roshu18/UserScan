@@ -46,7 +46,7 @@ python UserScan.py <username>
 ```
 Example:
 ```sh
-python UserScan.py -u roshu18 -t 10
+python UserScan.py -u roshu18 -t 1
 ```
 
 ### **Output Example:**
