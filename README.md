@@ -24,7 +24,7 @@ UserScan is a **powerful Python-based tool** that checks for username availabili
  cd UserScan
 ```
 
-### **2. Create and Activate a Virtual Environment (Recommended)**
+### **2. Create and Activate a Virtual Environment (optional)**
 ```sh
 python3 -m venv venv
 source venv/bin/activate  # For Linux/macOS
