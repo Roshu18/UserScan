@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/roshu18/UserScan)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-UserScan is a **powerful Python-based tool** that checks for username availability across multiple platforms. It helps users verify if a username exists on various websites such as Dev.to, Trello, Wattpad, Etsy, and more.
+UserScan is a **powerful Python-based tool** that checks for username availability across multiple platforms. It helps users verify if a username exists on various websites such as  Instagram, Facebook, Github, Chess.com, Dev.to, Trello, Wattpad, Etsy, and more.
 
 ---
 
