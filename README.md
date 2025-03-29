@@ -61,7 +61,11 @@ python UserScan.py -u roshu18 -t 10
 ---
 
 ## 🛠️ Supported Platforms
-- **Dev.to**  
+- **Dev.to**
+- **Instagram**
+- **Facebook**
+- **GitHub**
+- **LinkedIn** 
 - **Trello**  
 - **Wattpad**  
 - **Etsy**  
