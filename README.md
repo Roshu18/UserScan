@@ -53,7 +53,8 @@ python UserScan.py -u roshu18 -t 10
 ```
 [+] Checking username 'roshu18' on Dev.to: Found ✅
 [+] Checking username 'roshu18' on Trello: Not Found ❌
-![UserScan Output](https://github.com/roshu18/UserScan/blob/main/images/output.png?raw=true)
+![image](https://github.com/user-attachments/assets/fee99330-e33b-4c82-8344-9fef6c95e994)
+
 
 
 ...
