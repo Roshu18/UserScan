@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Twitter",
+        "url": "https://twitter.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Sorry, that page doesn’t exist!"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/{username}/",
+        "valid_status_codes": [200],
+        "error_text": "The link you followed may be broken"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "This is not the web page you are looking for"
+    },
+    {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "This page isn't available"
+    },
+    {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/@{username}",
+        "valid_status_codes": [200],
+        "error_text": "Couldn't find this account"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com/user/{username}/",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "This channel does not exist"
+    },
+    {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Sorry. Unless you’ve got a time machine, that content is unavailable."
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/{username}/",
+        "valid_status_codes": [200],
+        "error_text": "This profile isn’t available"
+    },
+    {
+        "name": "Steam",
+        "url": "https://steamcommunity.com/id/{username}",
+        "valid_status_codes": [200],
+        "error_text": "The specified profile could not be found"
+    },
+    {
+        "name": "Fiverr",
+        "url": "https://www.fiverr.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Quora",
+        "url": "https://www.quora.com/profile/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Profile not found"
+    },
+    {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Kaggle",
+        "url": "https://www.kaggle.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "Dev.to",
+        "url": "https://dev.to/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Trello",
+        "url": "https://trello.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Board not found"
+    },
+    {
+        "name": "Wattpad",
+        "url": "https://www.wattpad.com/user/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User does not exist"
+    },
+    {
+        "name": "Etsy",
+        "url": "https://www.etsy.com/shop/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Shop not found"
+    },
+    {
+        "name": "Itch.io",
+        "url": "https://{username}.itch.io/",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "Product Hunt",
+        "url": "https://www.producthunt.com/@{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Letterboxd",
+        "url": "https://letterboxd.com/{username}/",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "Bandcamp",
+        "url": "https://{username}.bandcamp.com",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "Patreon",
+        "url": "https://www.patreon.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Page not found"
+    },
+    {
+        "name": "Gitee",
+        "url": "https://gitee.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "500px",
+        "url": "https://500px.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Mastodon",
+        "url": "https://mastodon.social/@{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Rumble",
+        "url": "https://rumble.com/user/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Bitchute",
+        "url": "https://www.bitchute.com/channel/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Channel not found"
+    },
+    {
+        "name": "Dailymotion",
+        "url": "https://www.dailymotion.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Mixcloud",
+        "url": "https://www.mixcloud.com/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Profile not found"
+    },
+    {
+        "name": "Bitbucket",
+        "url": "https://bitbucket.org/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Duolingo",
+        "url": "https://www.duolingo.com/profile/{username}",
+        "valid_status_codes": [200],
+        "error_text": "Profile not found"
+    },
+    {
+        "name": "Couchsurfing",
+        "url": "https://www.couchsurfing.com/people/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    },
+    {
+        "name": "Trakt",
+        "url": "https://trakt.tv/users/{username}",
+        "valid_status_codes": [200],
+        "error_text": "User not found"
+    }
+]
